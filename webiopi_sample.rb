@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-WebIOPiでLチカサンプルスクリプト
 #!/usr/bin/env ruby
 
 require 'net/http'
